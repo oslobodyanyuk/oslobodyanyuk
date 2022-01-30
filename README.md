@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Slobodyanyuk Alex. I'm from Ukraine.</h1>
-<h3 align="center">lecturer in university, scientist and web developer... little bit)</h3>
+<h3 align="center">I'm a lecturer in university, scientist and web developer... little bit)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oslobodyanyuk&label=Profile%20views&color=0e75b6&style=flat" alt="oslobodyanyuk" /> </p>
 
