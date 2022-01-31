@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **research of LSB hiding methods in image data.**
 
-- 🌱 I’m currently learning **js/node.js id programminf field, penetration testing/Kali Tools in security, LSB steganography in my scientific investigations.**
+- 🌱 I’m currently learning **js/node.js in programming field, penetration testing/Kali Tools in security, LSB steganography in my scientific investigations.**
 
 - 👯 I’m looking to collaborate on **english speaking practice.**
 
